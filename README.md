@@ -54,7 +54,7 @@ This will:
 
 ## Output Format
 
-The CSV file includes the following columns:
+The CSV file follows the Google Contacts CSV template structure ([reference](https://support.google.com/contacts/answer/15147365)) and includes the following columns:
 - Name (Prefix, First, Middle, Last, Suffix)
 - Email
 - Phone
